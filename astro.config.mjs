@@ -18,6 +18,7 @@ export default defineConfig({
       lastUpdated: false,
       pagination: true,
       sidebar: [
+        { label: '故事的力量', slug: 'unit00' },
         {
           label: '舊故事 Old Stories',
           items: [
