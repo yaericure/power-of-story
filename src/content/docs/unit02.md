@@ -54,6 +54,6 @@ title: "故事的前提,人生的目的"
 
 ## 本章金句
 
-> "He who has a why to live can bear with almost any how." ——參透為何而活的人,幾乎能承受任何生存方式。
+> "He who has a why to live, said Nietzsche, can bear with almost any how." ——尼采說過,參透為何而活的人,幾乎能承受任何生存方式。
 
 > "Purpose is the epicenter of everyone's life story." ——目的,是每個人人生故事的核心。
